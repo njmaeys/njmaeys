@@ -1,8 +1,8 @@
 # 🎮 Game Development
 <div align="center">
   
-![GameMaker](https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+[![GameMaker](https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
+[![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
 
 </div>
 
@@ -62,7 +62,7 @@ Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves
 
 <br>
 
-**Little Buddy** is a casual pet simulation where you care for a virtual companion. Feed, play, and interact with Buddy while they wander around your screen. Designed to be played alongside other activities, it’s the perfect idle game to keep your little friend happy and healthy.
+**Little Buddy** is a casual pet simulation where you care for a virtual companion. Feed, play, and interact with Buddy while they wander around your screen. Designed to be played alongside other activities, it's the perfect idle game to keep your little friend happy and healthy.
 
 
 **🎯 Core Features:**
@@ -84,6 +84,8 @@ Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves
 I continue to work on pet projects that hopefully see the light of day!
 ```
 
+</div>
+
 ---
 
 <div align="center">
@@ -94,3 +96,4 @@ I continue to work on pet projects that hopefully see the light of day!
   <img src="https://img.shields.io/badge/Steam-Curator%20Page-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Curator">
 </a>
 
+</div>
