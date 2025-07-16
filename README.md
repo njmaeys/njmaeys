@@ -1,12 +1,4 @@
 # 🎮 Game Development
-<div align="center">
-  
-[![GameMaker](https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/en)
-[![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
-
-</div>
-
----
 
 ## 🎨 About Me
 
@@ -76,7 +68,24 @@ Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves
 
 ---
 
-### 🔮 **What's Next?**
+## 🔮 **What's Next?**
+
+<div align="center">
+
+#### 🎣 **[Little Lures]()**
+</div>
+
+<blockquote>
+<details>
+<summary><b>🌟 What is Little Lures?</b></summary>
+
+<br>
+
+**Little Lures** Little Lures is an idle fishing game where you purchase fishing spots and recruit townspeople to fish, dig bait, and upgrade equipment to generate gold while you're doing other tasks. The core loop involves strategically expanding your operation by buying new spots, placing fish traps, and unlocking new NPCs who each contribute different proficiencies to your growing fishing business.
+
+
+</details>
+</blockquote>
 
 <div align="center">
 
