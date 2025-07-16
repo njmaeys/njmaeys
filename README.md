@@ -38,7 +38,7 @@ Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves
 *My cozy little game development "studio" where I get to make silly little games*
 
 
-## **Released Games**
+## 🚀 **Released Games**
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves
 
 <br>
 
-**Little Lures** Little Lures is an idle fishing game where you purchase fishing spots and recruit townspeople to fish, dig bait, and upgrade equipment to generate gold while you're doing other tasks. The core loop involves strategically expanding your operation by buying new spots, placing fish traps, and unlocking new NPCs who each contribute different proficiencies to your growing fishing business.
+**Little Lures** is an idle fishing game where you purchase fishing spots and recruit townspeople to fish, dig bait, and upgrade equipment to generate gold while you're doing other tasks. The core loop involves strategically expanding your operation by buying new spots, placing fish traps, and unlocking new NPCs who each contribute different proficiencies to your growing fishing business.
 
 
 </details>
