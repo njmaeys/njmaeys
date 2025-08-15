@@ -1,97 +1,101 @@
-# 🎮 Game Development
+# 🐾 Panda Blade Software
 
-## 🎨 About Me
+<div align="center">
+
+**Indie Game Developer** • **GameMaker Studio Enthusiast** • **Casual Game Creator**
+
+*Crafting cozy digital companions for your everyday adventures*
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/45248396)
+[![GameMaker](https://img.shields.io/badge/GameMaker-Studio-green?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io)
+
+</div>
+
+---
+
+## 🎯 What I'm About
+
+I create accessible, low-pressure games that enhance your daily tasks. Think digital pets, idle adventures, and experiences that respect your time while adding a bit of joy.
+
+> **"Why sweat when you don't have to?"**
+
+I love a game with deep lore and hearty mechanics, but I'm a solo dev with only so much time and experience. That's why I choose to make simple, idle games that can be played casually. I make games that I can play while I make games.
+
+---
+
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="60%">
-
-Hey there! I'm a **pixel art enthusiast** and **indie game developer** who loves creating cozy, mindless games that bring a little joy to your day. 
-
-✨ **Style:**
-- 🎯 Simple, accessible gameplay
-- 💝 Low-pressure and relaxing experiences
-- 🏠 Games to play off to the side
-
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/GameMaker-Studio-1f425f?style=flat-square&logo=gamemaker" alt="GameMaker Studio"/><br>
+<sub><b>GameMaker Studio</b></sub><br>
+<sub>Where the magic happens</sub>
 </td>
-<td width="40%">
-
-```ascii
-
-       🎮 GAME DEV STACK 🎮
-       ────────────────────
-      │💻 GameMaker Studio │
-      │🎨 Aseprite         │  
-      │📦 Steam            │
-       ────────────────────
-
-```
-
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Aseprite-Pixel%20Art-7d4698?style=flat-square" alt="Aseprite"/><br>
+<sub><b>Aseprite</b></sub><br>
+<sub>Pixel-perfect art</sub>
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Steam-Publishing-000000?style=flat-square&logo=steam" alt="Steam"/><br>
+<sub><b>Steam</b></sub><br>
+<sub>Bringing games to players</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### [Panda Blade Software](https://store.steampowered.com/curator/45248396)
+## 🎮 Game Collection
 
-*My cozy little game development "studio" where I get to make silly little games*
+### 🎣 Little Lures
+![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
 
+A casual idle fishing sim that sits quietly at the bottom of your screen while you do other tasks.
 
-## 🚀 **Released Games**
+**Features:**
+- 🎯 Strategic spot placement and management
+- 👥 Unique NPCs with distinct personalities  
+- 💰 Automated gold generation that works for you
 
-<div align="center">
-
-### 🐾 **[Little Buddy](https://store.steampowered.com/app/3289230/Little_Buddy/)**
-
-<img src="https://img.shields.io/badge/Available%20Now-Steam-blue?style=for-the-badge&logo=steam" alt="Available on Steam">
-
-</div>
-
-<blockquote>
-<details>
-<summary><b>🌟 What is Little Buddy?</b></summary>
-
-<br>
-
-**Little Buddy** is a casual pet simulation where you care for a virtual companion. Feed, play, and interact with Buddy while they wander around your screen. Designed to be played alongside other activities, it's the perfect idle game to keep your little friend happy and healthy.
-
-
-**🎯 Core Features:**
-- 🍎 **Feed & Care** - Keep your buddy happy and healthy
-- 🎾 **Play & Interact** - Engage with your companion throughout the day  
-- ⏰ **Idle-Friendly** - Designed to play alongside your other activities
-
-
-</details>
-</blockquote>
+**[🌊 Start Fishing on Steam →](https://store.steampowered.com/app/3900250/Little_Lures/)**
 
 ---
 
-## 🔮 **What's Next?**
+### 🐕 Little Buddy
+![Available Now](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=flat-square)
+
+Little Buddy is a casual pet simulation where you care for a virtual companion.
+
+**Features:**
+- 🖥️ Lives harmoniously alongside your other apps
+- ❤️ Responds to your care and attention
+- 😌 Zero pressure
+
+**[🏠 Adopt Your Buddy on Steam →](https://store.steampowered.com/app/3289230/Little_Buddy/)**
+
+---
+
+## 🔮 What's Brewing?
+
+Currently tinkering with new concepts that blend idle mechanics with simple progression. I enjoy low pressure games that provide something to do on the side.
 
 <div align="center">
 
-#### 🎣 **[Little Lures]()**
+**Want to follow the journey?**
+
+[![Steam Curator](https://img.shields.io/badge/Follow-Steam%20Curator-blue?style=for-the-badge&logo=steam)](https://store.steampowered.com/curator/45248396)
+
 </div>
 
-<blockquote>
-<details>
-<summary><b>🌟 What is Little Lures?</b></summary>
+---
 
-<br>
-
-**Little Lures** is an idle fishing game where you purchase fishing spots and recruit townspeople to fish, dig bait, and upgrade equipment to generate gold while you're doing other tasks. The core loop involves strategically expanding your operation by buying new spots, placing fish traps, and unlocking new NPCs who each contribute different proficiencies to your growing fishing business.
-
-
-</details>
-</blockquote>
+## 🤝 Let's Connect
 
 <div align="center">
 
-```
-I continue to work on pet projects that hopefully see the light of day!
-```
+[![Steam](https://img.shields.io/badge/Steam-Curator%20Page-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/45248396)
 
 </div>
 
@@ -99,10 +103,8 @@ I continue to work on pet projects that hopefully see the light of day!
 
 <div align="center">
 
-### 🤝 **Let's Connect!**
+**Made with ❤️ using GameMaker Studio**
 
-<a href="https://store.steampowered.com/curator/45248396">
-  <img src="https://img.shields.io/badge/Steam-Curator%20Page-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Curator">
-</a>
+*Small studio, big dreams, cozy games*
 
 </div>
