@@ -50,7 +50,7 @@ I love a game with deep lore and hearty mechanics, but I'm a solo dev with only 
 ## 🎮 Game Collection
 
 ### 🎣 Little Lures
-![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat-square)
+![Available Now](https://img.shields.io/badge/Status-Available%20Now-brightgreen?style=flat-square)
 
 A casual idle fishing sim that sits quietly at the bottom of your screen while you do other tasks.
 
